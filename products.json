@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch",
+    "desc": "Series 5 SE",
+    "price": "529.99",
+    "img": "images/Product-Image.png",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pellentesque tellus imperdiet mattis. Proin in quis ipsum non amet imperdiet. Dignissim nisi leo a at. Sit nec lacus, nunc volutpat, tincidunt lorem mi duis. Vitae elementum libero."
+
+  },
+  {
+    "id": 2,
+    "name": "Sony ZX330BT",
+    "desc": "Light Grey",
+    "price": "39.99",
+    "img": "images/Product-Image (1).png",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pellentesque tellus imperdiet mattis. Proin in quis ipsum non amet imperdiet. Dignissim nisi leo a at. Sit nec lacus, nunc volutpat, tincidunt lorem mi duis. Vitae elementum libero."
+
+  },
+  {
+    "id": 3,
+    "name": "iPhone 11",
+    "desc": "Serious Black",
+    "price": "619.99",
+    "img": "images/Product-Image (2).png",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pellentesque tellus imperdiet mattis. Proin in quis ipsum non amet imperdiet. Dignissim nisi leo a at. Sit nec lacus, nunc volutpat, tincidunt lorem mi duis. Vitae elementum libero."
+
+  },
+  {
+    "id": 4,
+    "name": "iPhone 11",
+    "desc": "Subway Blue",
+    "price": "619.99",
+    "img": "images/Product-Image (3).png",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pellentesque tellus imperdiet mattis. Proin in quis ipsum non amet imperdiet. Dignissim nisi leo a at. Sit nec lacus, nunc volutpat, tincidunt lorem mi duis. Vitae elementum libero."
+
+  },
+  {
+    "id": 5,
+    "name": "Macbook Pro 16”",
+    "desc": "Silver - M1 Pro",
+    "price": "3249.99",
+    "img": "images/Product-Image (7).png",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pellentesque tellus imperdiet mattis. Proin in quis ipsum non amet imperdiet. Dignissim nisi leo a at. Sit nec lacus, nunc volutpat, tincidunt lorem mi duis. Vitae elementum libero."
+
+  },
+  {
+    "id": 6,
+    "name": "iPhone 11",
+    "desc": "Product RED",
+    "price": "619.99",
+    "img": "images/Product-Image (5).png",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pellentesque tellus imperdiet mattis. Proin in quis ipsum non amet imperdiet. Dignissim nisi leo a at. Sit nec lacus, nunc volutpat, tincidunt lorem mi duis. Vitae elementum libero."
+
+  },
+  {
+    "id": 7,
+    "name": "iPhone 11",
+    "desc": "Milky White",
+    "price": "619.99",
+    "img": "images/Product-Image (6).png",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pellentesque tellus imperdiet mattis. Proin in quis ipsum non amet imperdiet. Dignissim nisi leo a at. Sit nec lacus, nunc volutpat, tincidunt lorem mi duis. Vitae elementum libero."
+
+  },
+  {
+    "id": 8,
+    "name": "iPhone 11",
+    "desc": "Navy Blue",
+    "price": "729.99",
+    "img": "images/Product-Image (8).png",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pellentesque tellus imperdiet mattis. Proin in quis ipsum non amet imperdiet. Dignissim nisi leo a at. Sit nec lacus, nunc volutpat, tincidunt lorem mi duis. Vitae elementum libero."
+
+  },
+  {
+    "id": 9,
+    "name": "Dell XPS 13",
+    "desc": "White",
+    "price": "1799.99",
+    "img": "images/image (1).png",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pellentesque tellus imperdiet mattis. Proin in quis ipsum non amet imperdiet. Dignissim nisi leo a at. Sit nec lacus, nunc volutpat, tincidunt lorem mi duis. Vitae elementum libero."
+
+  }
+
+
+]

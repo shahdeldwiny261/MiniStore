@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Checkout</title>
+    <link rel="stylesheet" href="checkout.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+
+<body>
+
+    <div class="checkout">
+        <a href="product.html?id=" id="back-btn">← Back to Product Details</a>
+        <h1>Checkout</h1>
+
+        <div id="product-info"></div>
+
+        <form id="checkout-form">
+            <input type="text" id="name" placeholder="Name" required />
+            <input type="email" id="email" placeholder="Email" required />
+            <input type="text" id="address" placeholder="Address" required />
+
+
+
+            <div class="radio-group">
+                <label style=" color: #444444ce">Shipping Method:</label>
+                <label><input type="radio" name="shipping" value="Standard" required /> Standard (3–5 days)</label>
+                <label><input type="radio" name="shipping" value="Express" /> Express (1–2 days)</label>
+            </div>
+
+
+
+            <div class="radio-group">
+                <label style=" color: #444444ce">Payment Method:</label>
+                <label><input type="radio" name="payment" value="Cash on Delivery" required /> Cash on Delivery</label>
+                <label><input type="radio" name="payment" value="Credit Card" /> Credit Card</label>
+            </div>
+
+
+            <div class="form-group">
+                <label for="country">Country:</label>
+                <select id="country" required>
+                    <option value="" disabled selected>Select a country</option>
+                    <option value="Egypt">Egypt</option>
+                    <option value="Saudi Arabia">Saudi Arabia</option>
+                    <option value="UAE">UAE</option>
+                </select>
+            </div>
+
+
+
+            <button type="submit">Submit</button>
+        </form>
+
+        <p class="success-message" id="success-msg">Purchase completed successfully!</p>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2025 Shahd Eldwiny. All rights reserved.</p>
+            <div class="social-icons">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                <a href="#"><i class='fab fa-github-alt'></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="checkout.js"></script>
+</body>
+
+</html>
